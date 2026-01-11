@@ -1,6 +1,0 @@
-com\careergen\backend\controller\CareerController.class
-com\careergen\backend\model\CareerResponse.class
-com\careergen\backend\service\CareerServiceImpl.class
-com\careergen\backend\service\CareerService.class
-com\careergen\backend\model\SkillRequest.class
-com\careergen\backend\BackendApplication.class
